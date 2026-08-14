@@ -1,0 +1,192 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Telethon (For Creating Custom Tools)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-02-21T21:11:58Z",
+            "owner": "LonamiWebs",
+            "repo": "Telethon",
+            "stars": 12066
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Informer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-20T23:16:20Z",
+            "owner": "paulpierre",
+            "repo": "informer",
+            "stars": 1655
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TGCF",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-06T09:49:13Z",
+            "owner": "aahnik",
+            "repo": "tgcf",
+            "stars": 1616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telegram Nearby Map",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-17T15:50:41Z",
+            "owner": "tejado",
+            "repo": "telegram-nearby-map",
+            "stars": 1190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telegram Trilateration",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-27T11:26:58Z",
+            "owner": "jkctech",
+            "repo": "Telegram-Trilateration",
+            "stars": 589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TelegramOnlineSpy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-10T08:32:42Z",
+            "owner": "Forichok",
+            "repo": "TelegramOnlineSpy",
+            "stars": 522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telegram Index",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-24T17:37:09Z",
+            "owner": "odysseusmax",
+            "repo": "tg-index",
+            "stars": 430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telegram OSINT Library",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-03-16T04:29:47Z",
+            "owner": "Postuf",
+            "repo": "telegram-osint-lib",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telescan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-31T12:14:38Z",
+            "owner": "pielco11",
+            "repo": "telescan",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Save Telegram Chat History",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-11-16T23:03:07Z",
+            "owner": "pigpagnet",
+            "repo": "save-telegram-chat-history",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Archive-Bot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-01-24T00:21:19Z",
+            "owner": "Nukesor",
+            "repo": "archivebot",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TGViewer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-10T16:49:17Z",
+            "owner": "TGViewer",
+            "repo": "TGViewer.github.io",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Genisys",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "↑ Tools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:11:07.896Z",
+    "original_repository": "ItIsMeCall911/Awesome-Telegram-OSINT",
+    "original_repository_sha": "d95baee9e42479c1f6a91899d122d5b4e7af9e2c",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Telegram-OSINT",
+    "enhanced_repository_description": null,
+    "title": "Awesome Telegram OSINT with stars"
+  }
+}
