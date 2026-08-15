@@ -14,7 +14,7 @@
             "last_commit": "2026-02-21T21:11:58Z",
             "owner": "LonamiWebs",
             "repo": "Telethon",
-            "stars": 12066
+            "stars": 12065
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2024-08-10T08:32:42Z",
             "owner": "Forichok",
             "repo": "TelegramOnlineSpy",
-            "stars": 522
+            "stars": 523
           }
         },
         {
@@ -182,7 +182,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:11:07.896Z",
+    "last_updated": "2026-08-15T02:03:02.279Z",
     "original_repository": "ItIsMeCall911/Awesome-Telegram-OSINT",
     "original_repository_sha": "d95baee9e42479c1f6a91899d122d5b4e7af9e2c",
     "enhanced_repository": "enhansome/enhansome-Awesome-Telegram-OSINT",
