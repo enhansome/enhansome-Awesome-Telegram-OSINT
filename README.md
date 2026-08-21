@@ -86,7 +86,7 @@
 
 ## [↑](#contents) Misc Directories And Catalogues
 
-* [Telegram-List](https://github.com/goq/telegram-list) ⭐ 4,964 | 🐛 22 | 📅 2026-08-05
+* [Telegram-List](https://github.com/goq/telegram-list) ⭐ 4,965 | 🐛 22 | 📅 2026-08-05
 * [TELEGRAM CATALOG](https://katalogtelegram.ru/)
 * [Telegram channel list](http://telegram-downloads.ru/kanaly)
 * [r/TelegramChannels](https://www.reddit.com/r/TelegramChannels/)
@@ -99,7 +99,7 @@
 ## [↑](#contents) Tools
 
 * [Telethon (For Creating Custom Tools)](https://github.com/LonamiWebs/Telethon) ⚠️ Archived
-* [Informer](https://github.com/paulpierre/informer) ⭐ 1,659 | 🐛 5 | 🌐 Python | 📅 2025-10-20
+* [Informer](https://github.com/paulpierre/informer) ⭐ 1,658 | 🐛 5 | 🌐 Python | 📅 2025-10-20
 * [TGCF](https://github.com/aahnik/tgcf) ⭐ 1,616 | 🐛 91 | 🌐 Python | 📅 2024-05-06
 * [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) ⭐ 1,189 | 🐛 10 | 🌐 JavaScript | 📅 2024-02-17
 * [Telegram Trilateration](https://github.com/jkctech/Telegram-Trilateration) ⭐ 589 | 🐛 1 | 🌐 Python | 📅 2022-02-27
@@ -135,4 +135,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
