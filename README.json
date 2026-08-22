@@ -15,7 +15,7 @@
             "last_commit": "2026-02-21T21:11:58Z",
             "owner": "LonamiWebs",
             "repo": "Telethon",
-            "stars": 12063
+            "stars": 12061
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-05-06T09:49:13Z",
             "owner": "aahnik",
             "repo": "tgcf",
-            "stars": 1616
+            "stars": 1615
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2022-02-27T11:26:58Z",
             "owner": "jkctech",
             "repo": "Telegram-Trilateration",
-            "stars": 589
+            "stars": 588
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2024-03-16T04:29:47Z",
             "owner": "Postuf",
             "repo": "telegram-osint-lib",
-            "stars": 315
+            "stars": 316
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2025-01-31T12:14:38Z",
             "owner": "pielco11",
             "repo": "telescan",
-            "stars": 242
+            "stars": 243
           }
         },
         {
@@ -188,7 +188,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:11:09.554Z",
+    "last_updated": "2026-08-22T02:03:40.994Z",
     "original_repository": "ItIsMeCall911/Awesome-Telegram-OSINT",
     "original_repository_id": 367888205,
     "original_repository_sha": "d95baee9e42479c1f6a91899d122d5b4e7af9e2c",
