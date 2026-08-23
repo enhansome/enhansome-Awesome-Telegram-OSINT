@@ -15,7 +15,7 @@
             "last_commit": "2026-02-21T21:11:58Z",
             "owner": "LonamiWebs",
             "repo": "Telethon",
-            "stars": 12061
+            "stars": 12060
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-10-20T23:16:20Z",
             "owner": "paulpierre",
             "repo": "informer",
-            "stars": 1658
+            "stars": 1659
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-05-06T09:49:13Z",
             "owner": "aahnik",
             "repo": "tgcf",
-            "stars": 1615
+            "stars": 1616
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-02-17T15:50:41Z",
             "owner": "tejado",
             "repo": "telegram-nearby-map",
-            "stars": 1189
+            "stars": 1190
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2024-08-10T08:32:42Z",
             "owner": "Forichok",
             "repo": "TelegramOnlineSpy",
-            "stars": 521
+            "stars": 522
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2025-01-31T12:14:38Z",
             "owner": "pielco11",
             "repo": "telescan",
-            "stars": 243
+            "stars": 244
           }
         },
         {
@@ -188,7 +188,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:03:40.994Z",
+    "last_updated": "2026-08-23T02:12:20.657Z",
     "original_repository": "ItIsMeCall911/Awesome-Telegram-OSINT",
     "original_repository_id": 367888205,
     "original_repository_sha": "d95baee9e42479c1f6a91899d122d5b4e7af9e2c",
