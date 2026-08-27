@@ -188,9 +188,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:28:55.453Z",
-    "original_repository": "ItIsMeCall911/Awesome-Telegram-OSINT",
-    "original_repository_id": 367888205,
+    "last_updated": "2026-08-27T11:25:12.105Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 367888205,
+      "language": null,
+      "last_commit": "2024-08-03T12:45:01Z",
+      "owner": "ItIsMeCall911",
+      "repo": "Awesome-Telegram-OSINT",
+      "stars": 2846
+    },
     "original_repository_sha": "d95baee9e42479c1f6a91899d122d5b4e7af9e2c",
     "enhanced_repository": "enhansome/enhansome-Awesome-Telegram-OSINT",
     "enhanced_repository_description": null,
