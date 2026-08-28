@@ -15,8 +15,9 @@
             "last_commit": "2026-02-21T21:11:58Z",
             "owner": "LonamiWebs",
             "repo": "Telethon",
-            "stars": 12059
-          }
+            "stars": 12057
+          },
+          "first_seen": "2026-08-28T12:11:32.228Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "paulpierre",
             "repo": "informer",
             "stars": 1662
-          }
+          },
+          "first_seen": "2026-08-28T12:11:32.228Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2024-05-06T09:49:13Z",
             "owner": "aahnik",
             "repo": "tgcf",
-            "stars": 1617
-          }
+            "stars": 1618
+          },
+          "first_seen": "2026-08-28T12:11:32.228Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "tejado",
             "repo": "telegram-nearby-map",
             "stars": 1189
-          }
+          },
+          "first_seen": "2026-08-28T12:11:32.228Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "jkctech",
             "repo": "Telegram-Trilateration",
             "stars": 588
-          }
+          },
+          "first_seen": "2026-08-28T12:11:32.228Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "Forichok",
             "repo": "TelegramOnlineSpy",
             "stars": 522
-          }
+          },
+          "first_seen": "2026-08-28T12:11:32.228Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "odysseusmax",
             "repo": "tg-index",
             "stars": 430
-          }
+          },
+          "first_seen": "2026-08-28T12:11:32.228Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "Postuf",
             "repo": "telegram-osint-lib",
             "stars": 316
-          }
+          },
+          "first_seen": "2026-08-28T12:11:32.228Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "pielco11",
             "repo": "telescan",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T12:11:32.228Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "pigpagnet",
             "repo": "save-telegram-chat-history",
             "stars": 169
-          }
+          },
+          "first_seen": "2026-08-28T12:11:32.228Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "Nukesor",
             "repo": "archivebot",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T12:11:32.228Z"
         },
         {
           "node_type": "item",
@@ -181,14 +192,15 @@
             "owner": "TGViewer",
             "repo": "TGViewer.github.io",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T12:11:32.228Z"
         }
       ],
       "title": "↑ Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:25:12.105Z",
+    "last_updated": "2026-08-28T12:11:32.228Z",
     "original_repository_info": {
       "archived": false,
       "id": 367888205,
@@ -196,7 +208,7 @@
       "last_commit": "2024-08-03T12:45:01Z",
       "owner": "ItIsMeCall911",
       "repo": "Awesome-Telegram-OSINT",
-      "stars": 2846
+      "stars": 2847
     },
     "original_repository_sha": "d95baee9e42479c1f6a91899d122d5b4e7af9e2c",
     "enhanced_repository": "enhansome/enhansome-Awesome-Telegram-OSINT",
