@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Pure Python 3 MTProto API Telegram client library, for bots too!",
+            "homepage": "https://docs.telethon.dev",
             "id": 66641037,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-21T21:11:58Z",
+            "open_issues": 1,
             "owner": "LonamiWebs",
             "repo": "Telethon",
-            "stars": 12057
+            "stars": 12056,
+            "topics": [
+              "hacktoberfest",
+              "library",
+              "mtproto",
+              "python-library",
+              "telegram",
+              "telegram-api",
+              "telethon"
+            ]
           },
           "first_seen": "2026-08-28T12:11:32.228Z"
         },
@@ -26,12 +39,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Telegram Mass Surveillance Bot in Python",
+            "homepage": "https://www.twitter.com/paulpierre",
             "id": 226762085,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-20T23:16:20Z",
+            "open_issues": 5,
             "owner": "paulpierre",
             "repo": "informer",
-            "stars": 1662
+            "stars": 1662,
+            "topics": [
+              "bot",
+              "cryptocurrency",
+              "listen",
+              "listener",
+              "monitor",
+              "python",
+              "scraper",
+              "spy",
+              "surveillance",
+              "telegram",
+              "telegram-api",
+              "telegram-bot",
+              "telegram-bot-api",
+              "telegrambot",
+              "telethon",
+              "telethon-userbot"
+            ]
           },
           "first_seen": "2026-08-28T12:11:32.228Z"
         },
@@ -42,12 +77,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The ultimate tool to automate custom telegram message forwarding. Live-syncer, Auto-poster, backup-bot, cloner, chat-forwarder, duplicator, ... Call it whatever you like! tgcf can fulfill your custom needs.",
+            "homepage": "https://github.com/aahnik/tgcf/wiki",
             "id": 315814021,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-06T09:49:13Z",
+            "open_issues": 91,
             "owner": "aahnik",
             "repo": "tgcf",
-            "stars": 1618
+            "stars": 1618,
+            "topics": [
+              "aahnik",
+              "aahnik-daw",
+              "hacktoberfest",
+              "mtproto",
+              "python",
+              "python-script",
+              "python3",
+              "script",
+              "telegram",
+              "telegram-account",
+              "telegram-backup-bot",
+              "telegram-bot",
+              "telegram-chat",
+              "telegram-forward-bot",
+              "telegram-sync-bot",
+              "telegram-userbot",
+              "telethon",
+              "tgcf",
+              "user-bot"
+            ]
           },
           "first_seen": "2026-08-28T12:11:32.228Z"
         },
@@ -58,12 +118,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Discover the location of nearby Telegram users 📡🌍",
+            "homepage": null,
             "id": 329705041,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-17T15:50:41Z",
+            "open_issues": 10,
             "owner": "tejado",
             "repo": "telegram-nearby-map",
-            "stars": 1189
+            "stars": 1188,
+            "topics": [
+              "discover",
+              "gps",
+              "locate",
+              "location",
+              "map",
+              "nearby",
+              "node",
+              "nodejs",
+              "openlayers",
+              "osm",
+              "privacy",
+              "tdlib",
+              "telegram",
+              "trilateration"
+            ]
           },
           "first_seen": "2026-08-28T12:11:32.228Z"
         },
@@ -74,12 +154,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proof of concept for abusing Telegram's \"People Near Me\" feature and tracking people's location",
+            "homepage": null,
             "id": 334473958,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-02-27T11:26:58Z",
+            "open_issues": 1,
             "owner": "jkctech",
             "repo": "Telegram-Trilateration",
-            "stars": 588
+            "stars": 588,
+            "topics": [
+              "exploit",
+              "gps-coordinates",
+              "gps-location",
+              "nox",
+              "nox-player",
+              "privacy",
+              "python",
+              "security",
+              "telegram",
+              "vulnerability"
+            ]
           },
           "first_seen": "2026-08-28T12:11:32.228Z"
         },
@@ -90,12 +186,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple telegram online spy logger bot",
+            "homepage": null,
             "id": 220019475,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2024-08-10T08:32:42Z",
+            "open_issues": 30,
             "owner": "Forichok",
             "repo": "TelegramOnlineSpy",
-            "stars": 522
+            "stars": 522,
+            "topics": [
+              "bot",
+              "logger",
+              "monitoring",
+              "online",
+              "spy",
+              "telegram",
+              "telethon",
+              "tracker"
+            ]
           },
           "first_seen": "2026-08-28T12:11:32.228Z"
         },
@@ -106,12 +216,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python web app to index telegram chats and serve its files for download over HTTP. ",
+            "homepage": null,
             "id": 286398615,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-01-24T17:37:09Z",
+            "open_issues": 32,
             "owner": "odysseusmax",
             "repo": "tg-index",
-            "stars": 430
+            "stars": 430,
+            "topics": [
+              "aiohttp",
+              "download",
+              "indexing",
+              "python",
+              "telegram",
+              "telethon"
+            ]
           },
           "first_seen": "2026-08-28T12:11:32.228Z"
         },
@@ -122,12 +244,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram scenario-based API aimed at OSINT ",
+            "homepage": "https://habr.com/ru/post/486322",
             "id": 229737274,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2024-03-16T04:29:47Z",
+            "open_issues": 3,
             "owner": "Postuf",
             "repo": "telegram-osint-lib",
-            "stars": 316
+            "stars": 316,
+            "topics": [
+              "osint",
+              "telegram",
+              "telegram-api",
+              "telegram-scenario"
+            ]
           },
           "first_seen": "2026-08-28T12:11:32.228Z"
         },
@@ -138,12 +270,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 172563770,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-31T12:14:38Z",
+            "open_issues": 0,
             "owner": "pielco11",
             "repo": "telescan",
-            "stars": 245
+            "stars": 245,
+            "topics": [
+              "osint",
+              "osint-python",
+              "osinttool",
+              "telegram",
+              "telegram-api"
+            ]
           },
           "first_seen": "2026-08-28T12:11:32.228Z"
         },
@@ -154,12 +297,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 50805308,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2020-11-16T23:03:07Z",
+            "open_issues": 30,
             "owner": "pigpagnet",
             "repo": "save-telegram-chat-history",
-            "stars": 169
+            "stars": 169,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:32.228Z"
         },
@@ -170,12 +318,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":floppy_disk: A telegram bot for backing up and collecting all kinds of media.",
+            "homepage": null,
             "id": 146322711,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-24T00:21:19Z",
+            "open_issues": 1,
             "owner": "Nukesor",
             "repo": "archivebot",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "archive",
+              "archiver",
+              "bot",
+              "convenient",
+              "downloader",
+              "file-sharing",
+              "file-upload",
+              "photos",
+              "python3",
+              "telegram-bot",
+              "telethon",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T12:11:32.228Z"
         },
@@ -186,12 +352,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TGViewer",
+            "homepage": null,
             "id": 132751704,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-05-10T16:49:17Z",
+            "open_issues": 0,
             "owner": "TGViewer",
             "repo": "TGViewer.github.io",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:11:32.228Z"
         }
@@ -200,15 +371,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:11:32.228Z",
+    "last_updated": "2026-08-29T04:21:02.696Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources",
+      "homepage": null,
       "id": 367888205,
       "language": null,
+      "license": null,
       "last_commit": "2024-08-03T12:45:01Z",
+      "open_issues": 17,
       "owner": "ItIsMeCall911",
       "repo": "Awesome-Telegram-OSINT",
-      "stars": 2847
+      "stars": 2847,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "osint",
+        "osint-resources",
+        "telegram",
+        "telethon"
+      ]
     },
     "original_repository_sha": "d95baee9e42479c1f6a91899d122d5b4e7af9e2c",
     "enhanced_repository": "enhansome/enhansome-Awesome-Telegram-OSINT",
