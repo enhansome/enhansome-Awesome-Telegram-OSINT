@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "LonamiWebs",
             "repo": "Telethon",
-            "stars": 12056,
+            "stars": 12057,
             "topics": [
               "hacktoberfest",
               "library",
@@ -48,7 +48,7 @@
             "open_issues": 5,
             "owner": "paulpierre",
             "repo": "informer",
-            "stars": 1661,
+            "stars": 1662,
             "topics": [
               "bot",
               "cryptocurrency",
@@ -86,7 +86,7 @@
             "open_issues": 91,
             "owner": "aahnik",
             "repo": "tgcf",
-            "stars": 1618,
+            "stars": 1619,
             "topics": [
               "aahnik",
               "aahnik-daw",
@@ -225,7 +225,7 @@
             "open_issues": 32,
             "owner": "odysseusmax",
             "repo": "tg-index",
-            "stars": 430,
+            "stars": 431,
             "topics": [
               "aiohttp",
               "download",
@@ -371,7 +371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T05:37:55.253Z",
+    "last_updated": "2026-09-02T05:02:09.094Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources",
@@ -383,7 +383,7 @@
       "open_issues": 17,
       "owner": "ItIsMeCall911",
       "repo": "Awesome-Telegram-OSINT",
-      "stars": 2851,
+      "stars": 2852,
       "topics": [
         "awesome",
         "awesome-list",
