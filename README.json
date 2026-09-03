@@ -222,7 +222,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2023-01-24T17:37:09Z",
-            "open_issues": 32,
+            "open_issues": 31,
             "owner": "odysseusmax",
             "repo": "tg-index",
             "stars": 431,
@@ -371,7 +371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T05:02:09.094Z",
+    "last_updated": "2026-09-03T05:00:58.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources",
@@ -380,10 +380,10 @@
       "language": null,
       "license": null,
       "last_commit": "2024-08-03T12:45:01Z",
-      "open_issues": 17,
+      "open_issues": 18,
       "owner": "ItIsMeCall911",
       "repo": "Awesome-Telegram-OSINT",
-      "stars": 2852,
+      "stars": 2855,
       "topics": [
         "awesome",
         "awesome-list",
