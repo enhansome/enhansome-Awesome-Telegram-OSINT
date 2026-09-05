@@ -86,7 +86,7 @@
 
 ## [↑](#contents) Misc Directories And Catalogues
 
-* [Telegram-List](https://github.com/goq/telegram-list) ⭐ 4,966 | 🐛 22 | 📅 2026-08-30
+* [Telegram-List](https://github.com/goq/telegram-list) ⭐ 4,965 | 🐛 22 | 📅 2026-08-30
 * [TELEGRAM CATALOG](https://katalogtelegram.ru/)
 * [Telegram channel list](http://telegram-downloads.ru/kanaly)
 * [r/TelegramChannels](https://www.reddit.com/r/TelegramChannels/)
@@ -135,4 +135,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
