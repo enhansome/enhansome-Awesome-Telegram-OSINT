@@ -86,7 +86,7 @@
 
 ## [↑](#contents) Misc Directories And Catalogues
 
-* [Telegram-List](https://github.com/goq/telegram-list) ⭐ 4,966 | 🐛 23 | 📅 2026-08-30
+* [Telegram-List](https://github.com/goq/telegram-list) ⭐ 4,968 | 🐛 22 | 📅 2026-08-30
 * [TELEGRAM CATALOG](https://katalogtelegram.ru/)
 * [Telegram channel list](http://telegram-downloads.ru/kanaly)
 * [r/TelegramChannels](https://www.reddit.com/r/TelegramChannels/)
@@ -103,13 +103,13 @@
 * [TGCF](https://github.com/aahnik/tgcf) ⭐ 1,619 | 🐛 92 | 🌐 Python | 📅 2024-05-06
 * [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) ⭐ 1,190 | 🐛 10 | 🌐 JavaScript | 📅 2024-02-17
 * [Telegram Trilateration](https://github.com/jkctech/Telegram-Trilateration) ⭐ 588 | 🐛 1 | 🌐 Python | 📅 2022-02-27
-* [TelegramOnlineSpy](https://github.com/Forichok/TelegramOnlineSpy) ⭐ 523 | 🐛 30 | 🌐 Python | 📅 2024-08-10
-* [Telegram Index](https://github.com/odysseusmax/tg-index) ⭐ 431 | 🐛 31 | 🌐 Python | 📅 2023-01-24
-* [Telegram OSINT Library](https://github.com/Postuf/telegram-osint-lib) ⭐ 316 | 🐛 3 | 🌐 PHP | 📅 2024-03-16
+* [TelegramOnlineSpy](https://github.com/Forichok/TelegramOnlineSpy) ⭐ 524 | 🐛 30 | 🌐 Python | 📅 2024-08-10
+* [Telegram Index](https://github.com/odysseusmax/tg-index) ⭐ 430 | 🐛 31 | 🌐 Python | 📅 2023-01-24
+* [Telegram OSINT Library](https://github.com/Postuf/telegram-osint-lib) ⭐ 317 | 🐛 3 | 🌐 PHP | 📅 2024-03-16
 * [Telescan](https://github.com/pielco11/telescan) ⭐ 245 | 🐛 0 | 🌐 Python | 📅 2025-01-31
 * [Save Telegram Chat History](https://github.com/pigpagnet/save-telegram-chat-history) ⭐ 169 | 🐛 30 | 🌐 JavaScript | 📅 2020-11-16
 * [Archive-Bot](https://github.com/Nukesor/archivebot) ⚠️ Archived
-* [TGViewer](https://github.com/TGViewer/TGViewer.github.io) ⭐ 26 | 🐛 0 | 🌐 HTML | 📅 2026-05-10
+* [TGViewer](https://github.com/TGViewer/TGViewer.github.io) ⭐ 25 | 🐛 0 | 🌐 HTML | 📅 2026-05-10
 * Telegram API for OSINT : [P1](https://fabledowlblog.wordpress.com/2017/07/10/telegram-api-for-osint-part-1-users/) - [P2](https://fabledowlblog.wordpress.com/2017/09/09/telegram-api-for-osint-part-2-messages/)
 * [Genisys](https://github.com/Cryptonian007/Genisys)
 
@@ -135,4 +135,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
