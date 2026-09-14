@@ -253,7 +253,7 @@
             "open_issues": 3,
             "owner": "Postuf",
             "repo": "telegram-osint-lib",
-            "stars": 317,
+            "stars": 318,
             "topics": [
               "osint",
               "telegram",
@@ -371,7 +371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T05:20:46.079Z",
+    "last_updated": "2026-09-14T05:24:50.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources",
@@ -383,7 +383,7 @@
       "open_issues": 18,
       "owner": "ItIsMeCall911",
       "repo": "Awesome-Telegram-OSINT",
-      "stars": 2869,
+      "stars": 2871,
       "topics": [
         "awesome",
         "awesome-list",

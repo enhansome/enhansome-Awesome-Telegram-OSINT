@@ -105,7 +105,7 @@
 * [Telegram Trilateration](https://github.com/jkctech/Telegram-Trilateration) ⭐ 588 | 🐛 1 | 🌐 Python | 📅 2022-02-27
 * [TelegramOnlineSpy](https://github.com/Forichok/TelegramOnlineSpy) ⭐ 525 | 🐛 30 | 🌐 Python | 📅 2024-08-10
 * [Telegram Index](https://github.com/odysseusmax/tg-index) ⭐ 430 | 🐛 31 | 🌐 Python | 📅 2023-01-24
-* [Telegram OSINT Library](https://github.com/Postuf/telegram-osint-lib) ⭐ 317 | 🐛 3 | 🌐 PHP | 📅 2024-03-16
+* [Telegram OSINT Library](https://github.com/Postuf/telegram-osint-lib) ⭐ 318 | 🐛 3 | 🌐 PHP | 📅 2024-03-16
 * [Telescan](https://github.com/pielco11/telescan) ⭐ 245 | 🐛 0 | 🌐 Python | 📅 2025-01-31
 * [Save Telegram Chat History](https://github.com/pigpagnet/save-telegram-chat-history) ⭐ 169 | 🐛 30 | 🌐 JavaScript | 📅 2020-11-16
 * [Archive-Bot](https://github.com/Nukesor/archivebot) ⚠️ Archived
@@ -135,4 +135,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
