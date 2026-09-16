@@ -48,7 +48,7 @@
             "open_issues": 5,
             "owner": "paulpierre",
             "repo": "informer",
-            "stars": 1663,
+            "stars": 1662,
             "topics": [
               "bot",
               "cryptocurrency",
@@ -371,7 +371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T05:18:02.529Z",
+    "last_updated": "2026-09-16T05:12:20.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources",
@@ -380,10 +380,10 @@
       "language": null,
       "license": null,
       "last_commit": "2024-08-03T12:45:01Z",
-      "open_issues": 18,
+      "open_issues": 19,
       "owner": "ItIsMeCall911",
       "repo": "Awesome-Telegram-OSINT",
-      "stars": 2876,
+      "stars": 2879,
       "topics": [
         "awesome",
         "awesome-list",
