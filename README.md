@@ -86,7 +86,7 @@
 
 ## [↑](#contents) Misc Directories And Catalogues
 
-* [Telegram-List](https://github.com/goq/telegram-list) ⭐ 4,975 | 🐛 23 | 📅 2026-08-30
+* [Telegram-List](https://github.com/goq/telegram-list) ⭐ 4,976 | 🐛 23 | 📅 2026-08-30
 * [TELEGRAM CATALOG](https://katalogtelegram.ru/)
 * [Telegram channel list](http://telegram-downloads.ru/kanaly)
 * [r/TelegramChannels](https://www.reddit.com/r/TelegramChannels/)
@@ -99,12 +99,12 @@
 ## [↑](#contents) Tools
 
 * [Telethon (For Creating Custom Tools)](https://github.com/LonamiWebs/Telethon) ⚠️ Archived
-* [Informer](https://github.com/paulpierre/informer) ⭐ 1,664 | 🐛 5 | 🌐 Python | 📅 2025-10-20
-* [TGCF](https://github.com/aahnik/tgcf) ⭐ 1,621 | 🐛 92 | 🌐 Python | 📅 2024-05-06
-* [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) ⭐ 1,192 | 🐛 10 | 🌐 JavaScript | 📅 2024-02-17
+* [Informer](https://github.com/paulpierre/informer) ⭐ 1,666 | 🐛 5 | 🌐 Python | 📅 2025-10-20
+* [TGCF](https://github.com/aahnik/tgcf) ⭐ 1,623 | 🐛 92 | 🌐 Python | 📅 2024-05-06
+* [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) ⭐ 1,191 | 🐛 10 | 🌐 JavaScript | 📅 2024-02-17
 * [Telegram Trilateration](https://github.com/jkctech/Telegram-Trilateration) ⭐ 588 | 🐛 1 | 🌐 Python | 📅 2022-02-27
 * [TelegramOnlineSpy](https://github.com/Forichok/TelegramOnlineSpy) ⭐ 526 | 🐛 30 | 🌐 Python | 📅 2024-08-10
-* [Telegram Index](https://github.com/odysseusmax/tg-index) ⭐ 431 | 🐛 31 | 🌐 Python | 📅 2023-01-24
+* [Telegram Index](https://github.com/odysseusmax/tg-index) ⭐ 432 | 🐛 31 | 🌐 Python | 📅 2023-01-24
 * [Telegram OSINT Library](https://github.com/Postuf/telegram-osint-lib) ⭐ 319 | 🐛 3 | 🌐 PHP | 📅 2024-03-16
 * [Telescan](https://github.com/pielco11/telescan) ⭐ 246 | 🐛 0 | 🌐 Python | 📅 2025-01-31
 * [Save Telegram Chat History](https://github.com/pigpagnet/save-telegram-chat-history) ⭐ 169 | 🐛 30 | 🌐 JavaScript | 📅 2020-11-16
@@ -135,4 +135,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
