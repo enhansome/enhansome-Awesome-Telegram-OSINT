@@ -100,10 +100,10 @@
 
 * [Telethon (For Creating Custom Tools)](https://github.com/LonamiWebs/Telethon) ⚠️ Archived
 * [Informer](https://github.com/paulpierre/informer) ⭐ 1,665 | 🐛 5 | 🌐 Python | 📅 2025-10-20
-* [TGCF](https://github.com/aahnik/tgcf) ⭐ 1,622 | 🐛 92 | 🌐 Python | 📅 2024-05-06
+* [TGCF](https://github.com/aahnik/tgcf) ⭐ 1,623 | 🐛 92 | 🌐 Python | 📅 2024-05-06
 * [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) ⭐ 1,192 | 🐛 10 | 🌐 JavaScript | 📅 2024-02-17
 * [Telegram Trilateration](https://github.com/jkctech/Telegram-Trilateration) ⭐ 588 | 🐛 1 | 🌐 Python | 📅 2022-02-27
-* [TelegramOnlineSpy](https://github.com/Forichok/TelegramOnlineSpy) ⭐ 526 | 🐛 30 | 🌐 Python | 📅 2024-08-10
+* [TelegramOnlineSpy](https://github.com/Forichok/TelegramOnlineSpy) ⭐ 527 | 🐛 30 | 🌐 Python | 📅 2024-08-10
 * [Telegram Index](https://github.com/odysseusmax/tg-index) ⭐ 433 | 🐛 31 | 🌐 Python | 📅 2023-01-24
 * [Telegram OSINT Library](https://github.com/Postuf/telegram-osint-lib) ⭐ 319 | 🐛 3 | 🌐 PHP | 📅 2024-03-16
 * [Telescan](https://github.com/pielco11/telescan) ⭐ 247 | 🐛 0 | 🌐 Python | 📅 2025-01-31
@@ -135,4 +135,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
