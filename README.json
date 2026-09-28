@@ -127,7 +127,7 @@
             "open_issues": 10,
             "owner": "tejado",
             "repo": "telegram-nearby-map",
-            "stars": 1192,
+            "stars": 1193,
             "topics": [
               "discover",
               "gps",
@@ -253,7 +253,7 @@
             "open_issues": 3,
             "owner": "Postuf",
             "repo": "telegram-osint-lib",
-            "stars": 320,
+            "stars": 321,
             "topics": [
               "osint",
               "telegram",
@@ -306,7 +306,7 @@
             "open_issues": 30,
             "owner": "pigpagnet",
             "repo": "save-telegram-chat-history",
-            "stars": 169,
+            "stars": 170,
             "topics": []
           },
           "first_seen": "2026-08-28T12:11:32.228Z"
@@ -371,7 +371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T05:41:59.242Z",
+    "last_updated": "2026-09-28T05:49:02.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources",
@@ -383,7 +383,7 @@
       "open_issues": 19,
       "owner": "ItIsMeCall911",
       "repo": "Awesome-Telegram-OSINT",
-      "stars": 2889,
+      "stars": 2891,
       "topics": [
         "awesome",
         "awesome-list",
