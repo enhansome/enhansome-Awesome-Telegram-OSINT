@@ -99,8 +99,8 @@
 ## [↑](#contents) Tools
 
 * [Telethon (For Creating Custom Tools)](https://github.com/LonamiWebs/Telethon) ⚠️ Archived
-* [Informer](https://github.com/paulpierre/informer) ⭐ 1,670 | 🐛 5 | 🌐 Python | 📅 2025-10-20
-* [TGCF](https://github.com/aahnik/tgcf) ⭐ 1,622 | 🐛 92 | 🌐 Python | 📅 2024-05-06
+* [Informer](https://github.com/paulpierre/informer) ⭐ 1,672 | 🐛 5 | 🌐 Python | 📅 2025-10-20
+* [TGCF](https://github.com/aahnik/tgcf) ⭐ 1,623 | 🐛 92 | 🌐 Python | 📅 2024-05-06
 * [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) ⭐ 1,196 | 🐛 10 | 🌐 JavaScript | 📅 2024-02-17
 * [Telegram Trilateration](https://github.com/jkctech/Telegram-Trilateration) ⭐ 588 | 🐛 1 | 🌐 Python | 📅 2022-02-27
 * [TelegramOnlineSpy](https://github.com/Forichok/TelegramOnlineSpy) ⭐ 528 | 🐛 30 | 🌐 Python | 📅 2024-08-10
@@ -135,4 +135,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
