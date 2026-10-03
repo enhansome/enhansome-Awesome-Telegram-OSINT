@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Telethon (For Creating Custom Tools)",
-          "description": null,
+          "description": "LonamiWebs/Telethon",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "LonamiWebs",
             "repo": "Telethon",
-            "stars": 12061,
+            "stars": 12063,
             "topics": [
               "hacktoberfest",
               "library",
@@ -35,7 +35,7 @@
         {
           "node_type": "item",
           "title": "Informer",
-          "description": null,
+          "description": "paulpierre/informer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -73,7 +73,7 @@
         {
           "node_type": "item",
           "title": "TGCF",
-          "description": null,
+          "description": "aahnik/tgcf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -114,7 +114,7 @@
         {
           "node_type": "item",
           "title": "Telegram Nearby Map",
-          "description": null,
+          "description": "tejado/telegram-nearby-map",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -150,7 +150,7 @@
         {
           "node_type": "item",
           "title": "Telegram Trilateration",
-          "description": null,
+          "description": "jkctech/Telegram-Trilateration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -182,7 +182,7 @@
         {
           "node_type": "item",
           "title": "TelegramOnlineSpy",
-          "description": null,
+          "description": "Forichok/TelegramOnlineSpy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -212,7 +212,7 @@
         {
           "node_type": "item",
           "title": "Telegram Index",
-          "description": null,
+          "description": "odysseusmax/tg-index",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -240,7 +240,7 @@
         {
           "node_type": "item",
           "title": "Telegram OSINT Library",
-          "description": null,
+          "description": "Postuf/telegram-osint-lib",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -266,7 +266,7 @@
         {
           "node_type": "item",
           "title": "Telescan",
-          "description": null,
+          "description": "pielco11/telescan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -293,7 +293,7 @@
         {
           "node_type": "item",
           "title": "Save Telegram Chat History",
-          "description": null,
+          "description": "pigpagnet/save-telegram-chat-history",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -314,7 +314,7 @@
         {
           "node_type": "item",
           "title": "Archive-Bot",
-          "description": null,
+          "description": "Nukesor/archivebot",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -348,7 +348,7 @@
         {
           "node_type": "item",
           "title": "TGViewer",
-          "description": null,
+          "description": "TGViewer/TGViewer.github.io",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -371,7 +371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T06:09:02.246Z",
+    "last_updated": "2026-10-03T04:26:24.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources",
@@ -383,7 +383,7 @@
       "open_issues": 19,
       "owner": "ItIsMeCall911",
       "repo": "Awesome-Telegram-OSINT",
-      "stars": 2899,
+      "stars": 2901,
       "topics": [
         "awesome",
         "awesome-list",
