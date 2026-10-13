@@ -48,7 +48,7 @@
             "open_issues": 5,
             "owner": "paulpierre",
             "repo": "informer",
-            "stars": 1673,
+            "stars": 1675,
             "topics": [
               "bot",
               "cryptocurrency",
@@ -86,7 +86,7 @@
             "open_issues": 92,
             "owner": "aahnik",
             "repo": "tgcf",
-            "stars": 1625,
+            "stars": 1624,
             "topics": [
               "aahnik",
               "aahnik-daw",
@@ -127,7 +127,7 @@
             "open_issues": 10,
             "owner": "tejado",
             "repo": "telegram-nearby-map",
-            "stars": 1196,
+            "stars": 1197,
             "topics": [
               "discover",
               "gps",
@@ -163,7 +163,7 @@
             "open_issues": 1,
             "owner": "jkctech",
             "repo": "Telegram-Trilateration",
-            "stars": 588,
+            "stars": 589,
             "topics": [
               "exploit",
               "gps-coordinates",
@@ -371,7 +371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T06:29:08.750Z",
+    "last_updated": "2026-10-13T07:04:24.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources",
@@ -380,7 +380,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-08-03T12:45:01Z",
-      "open_issues": 22,
+      "open_issues": 23,
       "owner": "ItIsMeCall911",
       "repo": "Awesome-Telegram-OSINT",
       "stars": 2910,
