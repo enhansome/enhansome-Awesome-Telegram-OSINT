@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "LonamiWebs",
             "repo": "Telethon",
-            "stars": 12068,
+            "stars": 12067,
             "topics": [
               "hacktoberfest",
               "library",
@@ -163,7 +163,7 @@
             "open_issues": 1,
             "owner": "jkctech",
             "repo": "Telegram-Trilateration",
-            "stars": 589,
+            "stars": 588,
             "topics": [
               "exploit",
               "gps-coordinates",
@@ -225,7 +225,7 @@
             "open_issues": 31,
             "owner": "odysseusmax",
             "repo": "tg-index",
-            "stars": 434,
+            "stars": 435,
             "topics": [
               "aiohttp",
               "download",
@@ -371,7 +371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T05:19:21.956Z",
+    "last_updated": "2026-10-23T05:18:48.344Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources",
@@ -383,7 +383,7 @@
       "open_issues": 25,
       "owner": "ItIsMeCall911",
       "repo": "Awesome-Telegram-OSINT",
-      "stars": 2922,
+      "stars": 2923,
       "topics": [
         "awesome",
         "awesome-list",
