@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "LonamiWebs",
             "repo": "Telethon",
-            "stars": 12066,
+            "stars": 12065,
             "topics": [
               "hacktoberfest",
               "library",
@@ -371,7 +371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T05:14:56.416Z",
+    "last_updated": "2026-10-27T05:33:25.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources",
@@ -383,7 +383,7 @@
       "open_issues": 25,
       "owner": "ItIsMeCall911",
       "repo": "Awesome-Telegram-OSINT",
-      "stars": 2926,
+      "stars": 2928,
       "topics": [
         "awesome",
         "awesome-list",
