@@ -127,7 +127,7 @@
             "open_issues": 10,
             "owner": "tejado",
             "repo": "telegram-nearby-map",
-            "stars": 1198,
+            "stars": 1197,
             "topics": [
               "discover",
               "gps",
@@ -371,7 +371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T06:15:37.293Z",
+    "last_updated": "2026-10-29T06:25:22.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources",
