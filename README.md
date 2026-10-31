@@ -116,6 +116,7 @@
 ## [↑](#contents) Bots
 
 * [TgScanRobot](https://tgdev.io/bot/tgscanrobot)
+- [Tiny Telegram Tools](https://tg.zovo.one) — 22 single-purpose Telegram bots: anonymous inbox, party games, expense splitter, habit tracker, reminders, focus timer, and more.
 * [ChatSearchRobot](https://tgdev.io/bot/chatsearchrobot)
 * [IDBot](https://t.me/username_to_id_bot)
 * [UserInfoBot](https://t.me/userinfobot)
