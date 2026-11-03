@@ -100,13 +100,13 @@
 
 * [Telethon (For Creating Custom Tools)](https://github.com/LonamiWebs/Telethon) ⚠️ Archived
 * [Informer](https://github.com/paulpierre/informer) ⭐ 1,684 | 🐛 5 | 🌐 Python | 📅 2025-10-20
-* [TGCF](https://github.com/aahnik/tgcf) ⭐ 1,627 | 🐛 92 | 🌐 Python | 📅 2024-05-06
-* [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) ⭐ 1,197 | 🐛 10 | 🌐 JavaScript | 📅 2024-02-17
-* [Telegram Trilateration](https://github.com/jkctech/Telegram-Trilateration) ⭐ 588 | 🐛 1 | 🌐 Python | 📅 2022-02-27
-* [TelegramOnlineSpy](https://github.com/Forichok/TelegramOnlineSpy) ⭐ 530 | 🐛 30 | 🌐 Python | 📅 2024-08-10
-* [Telegram Index](https://github.com/odysseusmax/tg-index) ⭐ 436 | 🐛 31 | 🌐 Python | 📅 2023-01-24
+* [TGCF](https://github.com/aahnik/tgcf) ⭐ 1,628 | 🐛 92 | 🌐 Python | 📅 2024-05-06
+* [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) ⭐ 1,196 | 🐛 10 | 🌐 JavaScript | 📅 2024-02-17
+* [Telegram Trilateration](https://github.com/jkctech/Telegram-Trilateration) ⭐ 587 | 🐛 1 | 🌐 Python | 📅 2022-02-27
+* [TelegramOnlineSpy](https://github.com/Forichok/TelegramOnlineSpy) ⭐ 529 | 🐛 30 | 🌐 Python | 📅 2024-08-10
+* [Telegram Index](https://github.com/odysseusmax/tg-index) ⭐ 437 | 🐛 31 | 🌐 Python | 📅 2023-01-24
 * [Telegram OSINT Library](https://github.com/Postuf/telegram-osint-lib) ⭐ 321 | 🐛 3 | 🌐 PHP | 📅 2024-03-16
-* [Telescan](https://github.com/pielco11/telescan) ⭐ 249 | 🐛 0 | 🌐 Python | 📅 2025-01-31
+* [Telescan](https://github.com/pielco11/telescan) ⭐ 248 | 🐛 0 | 🌐 Python | 📅 2025-01-31
 * [Save Telegram Chat History](https://github.com/pigpagnet/save-telegram-chat-history) ⭐ 170 | 🐛 30 | 🌐 JavaScript | 📅 2020-11-16
 * [Archive-Bot](https://github.com/Nukesor/archivebot) ⚠️ Archived
 * [TGViewer](https://github.com/TGViewer/TGViewer.github.io) ⭐ 25 | 🐛 0 | 🌐 HTML | 📅 2026-05-10
@@ -135,4 +135,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
