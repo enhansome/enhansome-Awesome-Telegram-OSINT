@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "LonamiWebs",
             "repo": "Telethon",
-            "stars": 12065,
+            "stars": 12064,
             "topics": [
               "hacktoberfest",
               "library",
@@ -48,7 +48,7 @@
             "open_issues": 5,
             "owner": "paulpierre",
             "repo": "informer",
-            "stars": 1684,
+            "stars": 1685,
             "topics": [
               "bot",
               "cryptocurrency",
@@ -86,7 +86,7 @@
             "open_issues": 92,
             "owner": "aahnik",
             "repo": "tgcf",
-            "stars": 1628,
+            "stars": 1627,
             "topics": [
               "aahnik",
               "aahnik-daw",
@@ -127,7 +127,7 @@
             "open_issues": 10,
             "owner": "tejado",
             "repo": "telegram-nearby-map",
-            "stars": 1196,
+            "stars": 1198,
             "topics": [
               "discover",
               "gps",
@@ -163,7 +163,7 @@
             "open_issues": 1,
             "owner": "jkctech",
             "repo": "Telegram-Trilateration",
-            "stars": 587,
+            "stars": 588,
             "topics": [
               "exploit",
               "gps-coordinates",
@@ -195,7 +195,7 @@
             "open_issues": 30,
             "owner": "Forichok",
             "repo": "TelegramOnlineSpy",
-            "stars": 529,
+            "stars": 530,
             "topics": [
               "bot",
               "logger",
@@ -253,7 +253,7 @@
             "open_issues": 3,
             "owner": "Postuf",
             "repo": "telegram-osint-lib",
-            "stars": 321,
+            "stars": 320,
             "topics": [
               "osint",
               "telegram",
@@ -371,7 +371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T07:12:43.360Z",
+    "last_updated": "2026-11-04T06:57:14.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources",
@@ -383,7 +383,7 @@
       "open_issues": 24,
       "owner": "ItIsMeCall911",
       "repo": "Awesome-Telegram-OSINT",
-      "stars": 2934,
+      "stars": 2937,
       "topics": [
         "awesome",
         "awesome-list",
