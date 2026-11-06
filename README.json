@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "LonamiWebs",
             "repo": "Telethon",
-            "stars": 12065,
+            "stars": 12066,
             "topics": [
               "hacktoberfest",
               "library",
@@ -86,7 +86,7 @@
             "open_issues": 92,
             "owner": "aahnik",
             "repo": "tgcf",
-            "stars": 1627,
+            "stars": 1629,
             "topics": [
               "aahnik",
               "aahnik-daw",
@@ -127,7 +127,7 @@
             "open_issues": 10,
             "owner": "tejado",
             "repo": "telegram-nearby-map",
-            "stars": 1198,
+            "stars": 1199,
             "topics": [
               "discover",
               "gps",
@@ -306,7 +306,7 @@
             "open_issues": 30,
             "owner": "pigpagnet",
             "repo": "save-telegram-chat-history",
-            "stars": 170,
+            "stars": 169,
             "topics": []
           },
           "first_seen": "2026-08-28T12:11:32.228Z"
@@ -371,7 +371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T07:21:43.663Z",
+    "last_updated": "2026-11-06T07:21:55.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources",
@@ -383,7 +383,7 @@
       "open_issues": 24,
       "owner": "ItIsMeCall911",
       "repo": "Awesome-Telegram-OSINT",
-      "stars": 2937,
+      "stars": 2938,
       "topics": [
         "awesome",
         "awesome-list",
