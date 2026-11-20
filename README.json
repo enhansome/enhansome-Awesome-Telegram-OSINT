@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "LonamiWebs",
             "repo": "Telethon",
-            "stars": 12066,
+            "stars": 12067,
             "topics": [
               "hacktoberfest",
               "library",
@@ -48,7 +48,7 @@
             "open_issues": 5,
             "owner": "paulpierre",
             "repo": "informer",
-            "stars": 1689,
+            "stars": 1688,
             "topics": [
               "bot",
               "cryptocurrency",
@@ -86,7 +86,7 @@
             "open_issues": 93,
             "owner": "aahnik",
             "repo": "tgcf",
-            "stars": 1632,
+            "stars": 1631,
             "topics": [
               "aahnik",
               "aahnik-daw",
@@ -163,7 +163,7 @@
             "open_issues": 1,
             "owner": "jkctech",
             "repo": "Telegram-Trilateration",
-            "stars": 589,
+            "stars": 588,
             "topics": [
               "exploit",
               "gps-coordinates",
@@ -195,7 +195,7 @@
             "open_issues": 30,
             "owner": "Forichok",
             "repo": "TelegramOnlineSpy",
-            "stars": 534,
+            "stars": 532,
             "topics": [
               "bot",
               "logger",
@@ -225,7 +225,7 @@
             "open_issues": 31,
             "owner": "odysseusmax",
             "repo": "tg-index",
-            "stars": 436,
+            "stars": 435,
             "topics": [
               "aiohttp",
               "download",
@@ -253,7 +253,7 @@
             "open_issues": 3,
             "owner": "Postuf",
             "repo": "telegram-osint-lib",
-            "stars": 320,
+            "stars": 319,
             "topics": [
               "osint",
               "telegram",
@@ -371,7 +371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T07:53:26.853Z",
+    "last_updated": "2026-11-20T07:43:23.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources",
