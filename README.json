@@ -86,7 +86,7 @@
             "open_issues": 93,
             "owner": "aahnik",
             "repo": "tgcf",
-            "stars": 1630,
+            "stars": 1631,
             "topics": [
               "aahnik",
               "aahnik-daw",
@@ -222,10 +222,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2023-01-24T17:37:09Z",
-            "open_issues": 31,
+            "open_issues": 30,
             "owner": "odysseusmax",
             "repo": "tg-index",
-            "stars": 436,
+            "stars": 435,
             "topics": [
               "aiohttp",
               "download",
@@ -371,7 +371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T10:23:46.924Z",
+    "last_updated": "2026-11-25T09:05:54.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources",
@@ -383,7 +383,7 @@
       "open_issues": 24,
       "owner": "ItIsMeCall911",
       "repo": "Awesome-Telegram-OSINT",
-      "stars": 2951,
+      "stars": 2953,
       "topics": [
         "awesome",
         "awesome-list",
