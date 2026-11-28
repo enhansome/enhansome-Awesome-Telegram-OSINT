@@ -48,7 +48,7 @@
             "open_issues": 5,
             "owner": "paulpierre",
             "repo": "informer",
-            "stars": 1692,
+            "stars": 1691,
             "topics": [
               "bot",
               "cryptocurrency",
@@ -195,7 +195,7 @@
             "open_issues": 30,
             "owner": "Forichok",
             "repo": "TelegramOnlineSpy",
-            "stars": 533,
+            "stars": 532,
             "topics": [
               "bot",
               "logger",
@@ -306,7 +306,7 @@
             "open_issues": 30,
             "owner": "pigpagnet",
             "repo": "save-telegram-chat-history",
-            "stars": 170,
+            "stars": 171,
             "topics": []
           },
           "first_seen": "2026-08-28T12:11:32.228Z"
@@ -371,7 +371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T09:01:54.521Z",
+    "last_updated": "2026-11-28T08:24:37.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources",
@@ -383,7 +383,7 @@
       "open_issues": 24,
       "owner": "ItIsMeCall911",
       "repo": "Awesome-Telegram-OSINT",
-      "stars": 2960,
+      "stars": 2962,
       "topics": [
         "awesome",
         "awesome-list",
